@@ -15,12 +15,13 @@ h1 {
 p {
     margin-top: 0px;
     text-align: center;
+    padding: 20px;
 }
 .dPadrao {
-    margin-top: 30px;
+    margin-top: 10px;
     margin-bottom: 600px;
-    padding-top: 70px;
-    display: block;
+   
+ 
 }
 .dPadrao > p {
     font-size: 20px;
@@ -41,4 +42,12 @@ ul {
 }
 .link-YF {
     padding-top: 30px;
+}
+
+#Contact {
+    margin-bottom: 0px;
+}
+
+#logoFera {
+    padding-top: 10px;
 }
