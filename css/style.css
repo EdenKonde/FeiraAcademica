@@ -11,6 +11,7 @@
 h1 {
     text-align: center;
     margin: 0px;
+    font-weight: bold;
 }
 p {
     margin-top: 0px;
@@ -50,4 +51,8 @@ ul {
 
 #logoFera {
     padding-top: 10px;
+}
+.nav-link {
+    font-weight: bold;
+    font-size:  50;
 }
