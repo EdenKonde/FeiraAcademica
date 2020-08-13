@@ -56,3 +56,6 @@ ul {
     font-weight: bold;
     font-size:  50;
 }
+.f24px > small, span {
+    font-weight: bold;
+}
